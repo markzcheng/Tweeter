@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/markzcheng/Tweeter/blob/master/twitterparttwo.gif' width='' alt='Video Walkthrough' />
 
 # Project 3 - *Tweeter*
 
@@ -50,5 +50,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/markzcheng/Twitter/blob/master/twitterpartone.gif' width='' alt='Video Walkthrough' />
 
